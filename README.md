@@ -1,1 +1,1 @@
-# shiloh206.github.io
+# shiloh206.github.io/reading-notes/
