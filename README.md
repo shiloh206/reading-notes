@@ -22,4 +22,4 @@ Self endearment
 
 ---
 
-<sup> Ahmed Mohamed email: ahmed.mohamed57@outlook.com</sup>
+<sup>email: ahmed.mohamed57@outlook.com</sup>
