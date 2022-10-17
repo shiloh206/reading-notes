@@ -25,3 +25,5 @@ Self endearment
 ---
 
 <sup>[Github Portfolio](https://github.com/shiloh206/) </sup>
+
+<sup>[Intro](shiloh206.github.io/reading-notes/) </sup>
