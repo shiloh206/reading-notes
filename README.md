@@ -26,4 +26,4 @@ Self endearment
 
 <sup>[Github Portfolio](https://github.com/shiloh206/) </sup>
 
-<sup> ahmed.mohamed57@outlook.com </sup>
+<sup> <ahmed.mohamed57@outlook.com> </sup>
