@@ -6,8 +6,13 @@ Growth mindset is believeing hardwork can persevere over god given talent. Intel
 ---
 **How to keep yourself in a growth mindset** 
 ---
+
 Self reflect
+
 ---
+
 Self discipline 
+
 ---
+
 Self endearment 
