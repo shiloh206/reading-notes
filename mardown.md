@@ -1,5 +1,5 @@
 # Reading Notes
-## Qoteing
+## Qoting
 To quote use (**>**) before the text you need to quote
 ## Styling text
 To bold use (**) or (__) before & after text
