@@ -25,5 +25,7 @@ Self endearment
 ---
 [Markdown](https://shiloh206.github.io/reading-notes/mardown)
 
+[Coder's computer](https://shiloh206.github.io/reading-notes/coder'scomputer)
+
 <sup>[Github Portfolio](https://github.com/shiloh206/) </sup>
 <sup> <ahmed.mohamed57@outlook.com> </sup>
