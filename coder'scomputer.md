@@ -3,8 +3,8 @@ Text editor is a software that allows you to write & manage text for building we
 ## Features to look for 
 * **Code completion** allows you to start typing, and it'll display possible suggestions based on what you type
 * **Syntax highlighting** displays text in different colors 
-* **Variety of themes** allows you to change to your liking 
-* **Extensions** adding more features 
+* **Variety of themes** allows you to change theme to your liking 
+* **Extensions** allows you to add more features 
 ## Terminal Command 
 * **pwd** print working directory, shows current directory 
 *  **cd** change directory to change directory
