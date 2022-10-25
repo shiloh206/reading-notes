@@ -7,4 +7,4 @@ Version Control is a system that allows you to revisit various versions of a fil
 # Commit
 This part of the process is where you commit your changes. To do this you will use the command: **git commit -m**. This allows you to commit your changes and add a message to your snapshot for reference.
 
-[HOME](https://shiloh206.github.io/reading-notes/gitt)
+[HOME](https://shiloh206.github.io/reading-notes)
