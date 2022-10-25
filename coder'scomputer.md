@@ -11,4 +11,4 @@ Text editor is a software that allows you to write & manage text for building we
 *  **ls** list content in directory 
 *  **ls -a** list all content directory 
 
-[Home]([https://shiloh206.github.io/reading-notes/mardown](https://shiloh206.github.io/reading-notes/))
+[Home](https://shiloh206.github.io/reading-notes/)
