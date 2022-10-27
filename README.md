@@ -1,5 +1,5 @@
 ## Code 102 
-[Growth mindset](https://shiloh206.github.io/reading-notes/)
+[Growth mindset](https://shiloh206.github.io/reading-notes/mindset)
 
 
 [Markdown](https://shiloh206.github.io/reading-notes/coder'scomputer)
