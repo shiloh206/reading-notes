@@ -1,3 +1,7 @@
+# My Reading Notes Journal
+
+My name is Ahmed Mohamed. I have some background in tech. Previously I've worked in helpdesk. My goals are to learn how to code and become a developer!
+
 ## Code 102 
 [Growth mindset](https://shiloh206.github.io/reading-notes/mindset)
 
