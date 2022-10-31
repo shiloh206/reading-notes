@@ -1,5 +1,5 @@
 ## JavaScript
-Js is a compiled programming language with first-class functions. Js is completely different from Java programming that have very different syntax, semantics, and use. 
+Js is a compiled programming language with first-class functions. Js is completely different from Java programming that have very different syntax, semantics, and use 
 
 ## Variables; Different ways to declare them
 * var --> old way
