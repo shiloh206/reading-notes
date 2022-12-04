@@ -65,3 +65,5 @@ During an exam?
 ### Give an example of when a **loop** is useful in javascript
 
 When entering a code incorrectly and having to retry 
+
+[Home](https://shiloh206.github.io/reading-notes)

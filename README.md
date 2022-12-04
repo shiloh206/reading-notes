@@ -23,11 +23,11 @@ My name is Ahmed Mohamed. I have some background in tech. Previously I've worked
 [Operators & Loops](https://shiloh206.github.io/reading-notes/loops)
 
 ## Code 201
-[Class 1](https://shiloh206.github.io/reading-notes/1)
+[Class 1](https://shiloh206.github.io/reading-notes/201/class-01)
 
-[Class 2](https://shiloh206.github.io/reading-notes/2)
+[Class 2](https://shiloh206.github.io/reading-notes/201/class-02)
 
-[Class 3](https://shiloh206.github.io/reading-notes/3)
+[Class 3](https://shiloh206.github.io/reading-notes/201/class-03)
 
 [Class 4](https://shiloh206.github.io/reading-notes/4)
 
