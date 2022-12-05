@@ -68,4 +68,4 @@ Equal ==, Not equal !=, Strict equal ===
 
 
 
-[Home](https://shiloh206.github.io/reading-notes)1
+[Home](https://shiloh206.github.io/reading-notes)
