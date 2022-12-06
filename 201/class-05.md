@@ -40,3 +40,4 @@ Changes size and looke of font
 
 ### Describe two ways you could add spacing around the characters displayed in an h1 element.
 
+[Home](https://shiloh206.github.io/reading-notes)

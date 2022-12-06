@@ -29,7 +29,7 @@ My name is Ahmed Mohamed. I have some background in tech. Previously I've worked
 
 [Class 3](https://shiloh206.github.io/reading-notes/201/class-03)
 
-[Class 4](https://shiloh206.github.io/reading-notes/4)
+[Class 4](https://shiloh206.github.io/reading-notes/201/class-04)
 
 [Class 5](https://shiloh206.github.io/reading-notes/5)
 
