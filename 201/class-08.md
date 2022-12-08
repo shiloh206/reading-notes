@@ -18,8 +18,6 @@ Flexbox can center a block of content inside its parent. Making multiple columns
 
 ### How does this topic connect with your long term goals?
 
-Help make designing simplier. Withought CSS developing wont be as fun or interesting 
-
-
+Help make designing simpler. Without CSS developing won't be as fun or interesting3
 
 [Home](https://shiloh206.github.io/reading-notes)
