@@ -22,3 +22,5 @@ Break point stops code from running again after requirements are met.
 ### What is the call stack?
 
 Call stack calls the function until the next function is called.
+
+[Home](https://shiloh206.github.io/reading-notes)

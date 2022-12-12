@@ -30,3 +30,5 @@ property of the event object is always a reference to the element the event occu
 ### What is the difference between event bubbling and event capturing?
 
 Event bubbling starts in the inner nested event, event capturing is opposite 
+
+[Home](https://shiloh206.github.io/reading-notes)
