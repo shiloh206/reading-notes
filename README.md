@@ -54,5 +54,27 @@ My name is Ahmed Mohamed. I have some background in tech. Previously I've worked
 [Class 14 Bonus](https://shiloh206.github.io/reading-notes/201/class-14-2)
 
 [Class 15](https://shiloh206.github.io/reading-notes/201/class-15)
+
+## Code 301
+[Class 1](https://shiloh206.github.io/reading-notes/301/class1)
+
+[Class 2](https://shiloh206.github.io/reading-notes/301/class2
+
+[Class 3](https://shiloh206.github.io/reading-notes/301/class3
+
+[Class 4](https://shiloh206.github.io/reading-notes/301/class4
+
+[Class 5](https://shiloh206.github.io/reading-notes/301/class5
+
+[Class 6](https://shiloh206.github.io/reading-notes/301/class6
+
+[Class 7](https://shiloh206.github.io/reading-notes/301/class7
+
+[Class 8](https://shiloh206.github.io/reading-notes/301/class8
+
+[Class 9](https://shiloh206.github.io/reading-notes/301/class9
+
+[Class 10](https://shiloh206.github.io/reading-notes/301/class10
+
 ---
 <sup>[Github Portfolio](https://github.com/shiloh206/) </sup>
