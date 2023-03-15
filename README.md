@@ -76,5 +76,13 @@ My name is Ahmed Mohamed. I have some background in tech. Previously I've worked
 
 [Class 10](https://shiloh206.github.io/reading-notes/301/class10)
 
+[Class 11](https://shiloh206.github.io/reading-notes/301/class11)
+
+[Class 12](https://shiloh206.github.io/reading-notes/301/class12)
+
+[Class 13](https://shiloh206.github.io/reading-notes/301/class13)
+
+[Class 14](https://shiloh206.github.io/reading-notes/301/class14)
+
 ---
 <sup>[Github Portfolio](https://github.com/shiloh206/) </sup>
